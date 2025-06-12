@@ -15,6 +15,10 @@
 - 🔁 **Repeatable Choice System**  
   Allows users to keep exploring other national items without restarting the program.
 
-  ### Here's some screenshot of the output result for better understanding:
+ ### Here's some screenshot of the output result for better understanding:
+ ### Payment option:
+ ![image alt](https://github.com/tabassumnazifa/Zoo-Book/blob/main/pay.png?raw=true)
+ ### Pick an option:
+ ![image alt](https://github.com/tabassumnazifa/Zoo-Book/blob/main/pick.png?raw=true)
  ### Information page:
   ![image alt](https://github.com/tabassumnazifa/Zoo-Book/blob/main/final%20intro.png?raw=true)
