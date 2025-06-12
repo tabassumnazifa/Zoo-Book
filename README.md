@@ -14,3 +14,7 @@
   - 🐟 **Hilsha Fish (Ilish)**
 - 🔁 **Repeatable Choice System**  
   Allows users to keep exploring other national items without restarting the program.
+
+  ### Here's some screenshot of the output result for better understanding:
+ ### Information page:
+  ![image alt](https://github.com/tabassumnazifa/Zoo-Book/blob/main/final%20intro.png?raw=true)
